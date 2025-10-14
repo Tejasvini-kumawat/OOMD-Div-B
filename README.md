@@ -1,2 +1,2 @@
 # OOMD-Div-B
-Mini Projects in OOMD
+Projects in OOMD
